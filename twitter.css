@@ -1,4 +1,3 @@
-// my twitter styles
 body, .MomentsPage.MomentsPermalinkPage, .MomentsPage.MomentsGuidePage, .ProfilePage, .AdaptiveSearchPage,.ProfileClusterFollow, .MomentGuideNavigation {
 	background-color:#1F1F1F !important;
     color:#fff;
@@ -17,10 +16,10 @@ body, .MomentsPage.MomentsPermalinkPage, .MomentsPage.MomentsGuidePage, .Profile
 a, .btn-link, .btn-link:focus, .icon-btn, .pretty-link b, .pretty-link:hover s, .pretty-link:hover b, .pretty-link:focus s, .pretty-link:focus b, .metadata a:hover, .metadata a:focus, .account-group:hover .fullname, .account-group:focus .fullname, .account-summary:focus .fullname, .message .message-text a, .stats a strong, .plain-btn:hover, .plain-btn:focus, .dropdown.open .user-dropdown.plain-btn, .open > .plain-btn, #global-actions .new:before, .module .list-link:hover, .module .list-link:focus, .stats a:hover, .stats a:hover strong, .stats a:focus, .stats a:focus strong, .find-friends-sources li:hover .source, .stream-item a:hover .fullname, .stream-item a:focus .fullname, .stream-item .view-all-supplements:hover, .stream-item .view-all-supplements:focus, .tweet .time a:hover, .tweet .time a:focus, .tweet .details.with-icn b, .tweet .details.with-icn .Icon, .stream-item:hover .original-tweet .details b, .stream-item .original-tweet.focus .details b, .stream-item.open .original-tweet .details b, .client-and-actions a:hover, .client-and-actions a:focus, .dismiss-btn:hover b, .tweet .context .pretty-link:hover s, .tweet .context .pretty-link:hover b, .tweet .context .pretty-link:focus s, .tweet .context .pretty-link:focus b, .list .username a:hover, .list .username a:focus, .list-membership-container .create-a-list, .list-membership-container .create-a-list:hover, .card .list-details a:hover, .card .list-details a:focus, .card .card-body:hover .attribution, .card .card-body .attribution:focus, .new-tweets-bar, .remove-background-btn, .stream-item-activity-notification .latest-tweet .tweet-row a:hover, .stream-item-activity-notification .latest-tweet .tweet-row a:focus, .stream-item-activity-notification .latest-tweet .tweet-row a:hover b, .stream-item-activity-notification .latest-tweet .tweet-row a:focus b, a, a:hover, a:focus, a:active, #global-actions > li:hover > a, #global-actions > li > a:focus, .nav.right-actions > li > a:hover, .nav.right-actions > li > button:hover, .nav.right-actions > li > a:focus, .nav.right-actions > li > button:focus, .top-timeline-tweetbox .timeline-tweet-box .tweet-form.condensed .tweet-box, s, .pretty-link:hover s, .pretty-link:focus s, .stream-item-activity-notification .latest-tweet .tweet-row a:hover s, .stream-item-activity-notification .latest-tweet .tweet-row a:focus s {
 	color:#f05a7f;
 }
-.vellip, .vellip:before, .vellip:after, .conversation-module > li:after, .conversation-module > li:before, .ThreadedConversation-tweet:not(.is-hiddenAncestor) ~ .ThreadedConversation-tweet:before, .ThreadedConversation-tweet:after, .ThreadedConversation-viewOther:before, .ThreadedConversation-unavailableTweet:before, .ThreadedConversation-unavailableTweet:after, .ThreadedConversation--permalinkTweetWithAncestors:before, .global-nav .people .count .count-inner {
+.vellip, .vellip:before, .vellip:after, .conversation-module > li:after, .conversation-module > li:before, .ThreadedConversation-tweet:not(.is-hiddenAncestor) ~ .ThreadedConversation-tweet:before, .ThreadedConversation-tweet:after, .ThreadedConversation-viewOther:before, .ThreadedConversation-unavailableTweet:before, .ThreadedConversation-unavailableTweet:after, .ThreadedConversation--permalinkTweetWithAncestors:before, .global-nav .people .count .count-inner, .vellip, .vellip:before, .vellip:after, .conversation-module > li:after, .conversation-module > li:before, .ThreadedConversation-tweet:not(.is-hiddenAncestor) ~ .ThreadedConversation-tweet:before, .ThreadedConversation-tweet:after, .ThreadedConversation-moreReplies:before, .ThreadedConversation-viewOther:before, .ThreadedConversation-unavailableTweet:before, .ThreadedConversation-unavailableTweet:after, .ThreadedConversation--permalinkTweetWithAncestors:before {
 	background-color:#f05a7f;
 }
-#global-actions > li > a, .u-borderUserColor, .u-borderUserColorHover:hover, .u-borderUserColorHover:focus,.js-stream-item.is-selected:focus .ProfileCard, .QuoteTweet:hover, .QuoteTweet:focus, .QuoteTweet:active {
+#global-actions > li > a, .u-borderUserColor, .u-borderUserColorHover:hover, .u-borderUserColorHover:focus,.js-stream-item.is-selected:focus .ProfileCard, .QuoteTweet:hover, .QuoteTweet:focus, .QuoteTweet:active, .TwitterCard-container--clickable:hover {
 	border-color:#f05a7f !important;
 }
 .u-textUserColor, .u-textUserColorHover:hover, .u-textUserColorHover:hover .ProfileTweet-actionCount, .u-textUserColorHover:focus {
@@ -57,7 +56,7 @@ a, .btn-link, .btn-link:focus, .icon-btn, .pretty-link b, .pretty-link:hover s, 
     color:#fff;
     margin: 10px 0;
 }
-.ProfileHeading-content, .MomentCapsuleItemTweet--withText,.permalink-tweet, .permalink-tweet:hover, .ThreadedConversation, .ThreadedConversation--loneTweet, .permalink, .WhoToFollow, .Trends, .DashboardProfileCard,.DashboardProfileCard, .ProfileCard, .permalink .inline-reply-tweetbox, .NotificationsHeadingContent, .new-tweets-bar, .GalleryTweet, .ThreadedConversation-showMore, .home-tweet-box, .LiveVideo-tweetBox, .RetweetDialog-commentBox, .WebToast-box--altColor  {
+.ProfileHeading-content, .MomentCapsuleItemTweet--withText,.permalink-tweet, .permalink-tweet:hover, .ThreadedConversation, .ThreadedConversation--loneTweet, .permalink, .WhoToFollow, .Trends, .DashboardProfileCard,.DashboardProfileCard, .ProfileCard, .permalink .inline-reply-tweetbox, .NotificationsHeadingContent, .new-tweets-bar, .GalleryTweet, .ThreadedConversation-showMore, .home-tweet-box, .LiveVideo-tweetBox, .RetweetDialog-commentBox, .WebToast-box--altColor, .hovercard .profile-social-proof, .module .flex-module, .TwitterCard .MomentCard  {
 	background-color:#3C3C3C;
 }
 .tweet:hover, .conversation-module .conversation-tweet-item .tweet:hover, .MomentFormatLink-anchor:active, .MomentFormatLink-anchor:focus, .MomentFormatLink-anchor:hover, .MomentCapsuleItemTweet--withText .QuoteTweet:active, .MomentCapsuleItemTweet--withText .QuoteTweet:focus, .MomentCapsuleItemTweet--withText .QuoteTweet:hover, .MomentFormatLink--withText .MomentFormatLink-anchor:active, .MomentFormatLink--withText .MomentFormatLink-anchor:focus, .MomentFormatLink--withText .MomentFormatLink-anchor:hover, .GalleryTweet:hover, .ThreadedConversation-showMore:hover, .TwitterCard-container--clickable:hover {
@@ -66,8 +65,8 @@ a, .btn-link, .btn-link:focus, .icon-btn, .pretty-link b, .pretty-link:hover s, 
 .tweet {
     padding: 27px 36px;
 }
-.content-main,.u-size2of3  {
-	width:100%;
+.content-main  {
+	flex-grow:1;
 }
 .conversation-module {
     padding: 27px 0;
@@ -75,11 +74,32 @@ a, .btn-link, .btn-link:focus, .icon-btn, .pretty-link b, .pretty-link:hover s, 
 .top-timeline-tweetbox .timeline-tweet-box, .tweet, .NotificationsHeadingContent, .Trends {
     border-radius: 3px !important;
 }
-.tweet, .ProfileHeading-content, .ProfileCanopy-navBar,.stream-item+.stream-item.separated-module:not(.no-header-background-module), .stream-item.separated-module+.stream-item:not(.no-header-background-module), .PromptbirdPrompt-streamItem.separated-module+.stream-item:not(.no-header-background-module), .recap-header, .WhoToFollow, .new-tweets-bar, .AdaptiveFiltersBar, .Trends, .DashboardProfileCard,.DashboardProfileCard-bg, .top-timeline-tweetbox .timeline-tweet-box, .ProfileCard,.ProfileClusterFollow, .AdaptiveSearchTimeline .stream .stream-item:first-child, .MomentGuideNavigation, .permalink .inline-reply-tweetbox, .ProfileCard-bg, .stream-item-activity-notification, .NotificationsHeadingContent, .content-header, .content-no-header, .ThreadedConversation, .ThreadedConversation-showMore:after, .ThreadedConversation-viewOther .view-other-link, .ThreadedConversation, .ThreadedConversation-showMore, .ThreadedConversation-showMore:after, .ThreadedConversation+.ThreadedConversation--loneTweet, :not(.ThreadedConversation--ownReply)+.ThreadedConversation--ownReply, .ThreadedConversation--ownReply+.ThreadedConversation--loneTweet:not(.ThreadedConversation--ownReply), .ThreadedConversation--loneTweet:first-child, .permalink .in-reply-to .tweet, .permalink .replies-to .tweet, .permalink.has-replies .inline-reply-tweetbox{
+.tweet, .ProfileHeading-content, .ProfileCanopy-navBar,.stream-item+.stream-item.separated-module:not(.no-header-background-module), .stream-item.separated-module+.stream-item:not(.no-header-background-module), .PromptbirdPrompt-streamItem.separated-module+.stream-item:not(.no-header-background-module), .recap-header, .WhoToFollow, .new-tweets-bar, .AdaptiveFiltersBar, .Trends, .DashboardProfileCard,.DashboardProfileCard-bg, .top-timeline-tweetbox .timeline-tweet-box, .ProfileCard,.ProfileClusterFollow, .AdaptiveSearchTimeline .stream .stream-item:first-child, .MomentGuideNavigation, .permalink .inline-reply-tweetbox, .ProfileCard-bg, .stream-item-activity-notification, .NotificationsHeadingContent, .content-header, .content-no-header, .ThreadedConversation, .ThreadedConversation-showMore:after, .ThreadedConversation-viewOther .view-other-link, .ThreadedConversation, .ThreadedConversation-showMore, .ThreadedConversation-showMore:after, .ThreadedConversation+.ThreadedConversation--loneTweet, :not(.ThreadedConversation--ownReply)+.ThreadedConversation--ownReply, .ThreadedConversation--ownReply+.ThreadedConversation--loneTweet:not(.ThreadedConversation--ownReply), .ThreadedConversation--loneTweet:first-child, .permalink .in-reply-to .tweet, .permalink .replies-to .tweet, .permalink.has-replies .inline-reply-tweetbox, .module .flex-module{
 	border:none;
 }
-.MomentFloatingMenu.is-fixed, .SidebarFilterModule, .NotificationsPage .Trends {
+.MomentFloatingMenu.is-fixed, .SidebarFilterModule, .NotificationsPage .Trends, .PromptbirdPrompt-streamItem, .PromptbirdPrompt-streamItem.selected-stream-item:focus, .Footer.module.roaming-module, .LiveVideoHomePageModuleContainer {
 	display:none;
+}
+
+#page-container {
+	width:100%;
+    display:flex;
+    flex-wrap:wrap;
+}
+.ProfileCanopy {
+	width:100%;
+}
+.dashboard {
+	float:none;
+}
+.tweet>.content>.AdaptiveMediaOuterContainer {
+	display:block;
+}
+.tweet>.content>.AdaptiveMediaOuterContainer>.AdaptiveMedia {
+	display:block;
+}
+.AdaptiveMedia-quadPhoto {
+	width:100%;
 }
 @media (max-width:900px) {
 	#page-outer,
